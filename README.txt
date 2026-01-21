@@ -51,6 +51,8 @@ Leveraged a 50-layer deep residual network pre-trained on ImageNet to solve the 
 * **Tanuj**: Traditional Methods (SVM/KNN)
 * **Snigdha**: Transfer Learning (ResNet)
 
+CS 415: Computer Vision, Prof Wei Tang, Fall 2024
+
 
 ## References:
 
