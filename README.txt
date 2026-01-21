@@ -52,6 +52,29 @@ Leveraged a 50-layer deep residual network pre-trained on ImageNet to solve the 
 * **Snigdha**: Transfer Learning (ResNet)
 
 
-References:
-* Medical MNIST: https://www.kaggle.com/datasets/andrewmvd/medical-mnist
-* COVID-19 Radiography: 
+## References:
+
+* Covid-19 Radiography dataset:
+
+M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz, M. T. Islam, “Can AI help in screening Viral and COVID-19 pneumonia?” IEEE Access, Vol. 8, 2020, pp. 132665 - 132676. https://ieeexplore.ieee.org/document/9144185
+
+Rahman, T., Khandakar, A., Qiblawey, Y., Tahir, A., Kiranyaz, S., Kashem, S.B.A., Islam, M.T., Maadeed, S.A., Zughaier, S.M., Khan, M.S. and Chowdhury, M.E., 2020. Exploring the Effect of Image Enhancement Techniques on COVID-19 Detection using Chest X-ray Images. https://doi.org/10.1016/j.compbiomed.2021.104319
+
+
+* Medical MNIST dataset:
+
+Polanco, A. (2017). Medical MNIST Classification [GitHub repository]. Retrieved from https://github.com/apolanco3225/Medical-MNIST-Classification.
+License: Public Domain
+
+Splash Image Credit: Photo by Hush Naidoo on Unsplash.
+
+https://www.kaggle.com/datasets/andrewmvd/medical-mnist
+
+
+* ResNet50:
+
+He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep Residual Learning for Image Recognition. arXiv preprint arXiv:1512.03385. https://doi.org/10.48550/arXiv.1512.03385
+
+https://medium.com/@kenneth.ca95/a-guide-to-transfer-learning-with-keras-using-resnet50-a81a4a28084b
+
+ResNet50 — Torchvision. (2017). PyTorch. Retrieved December 12, 2024, from https://pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html
